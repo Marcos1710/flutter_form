@@ -1,6 +1,6 @@
 # flutter_form
 
-## projeto realizado para praticar a criação de formulários no curso de FLutter
+## projeto realizado para praticar a criação de formulários no curso de Flutter
 
 ## Projeto finalizado! 🚀
 
